@@ -1,5 +1,6 @@
 {
-  "name:": "Next Chrome",
+  "name": "Next Chrome",
+  "description": "Next.js Chrome Extension starter",
   "version": "0.0.1",
   "manifest_version": 3,
   "action": {
