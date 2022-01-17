@@ -9,4 +9,4 @@ yarn build # on macOS
 yarn build:linux # on Linux
 ```
 
-![Screenshot](./s.png)
+![Screenshot](./screenshot.png)
