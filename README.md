@@ -10,3 +10,5 @@ yarn build:linux # on Linux
 ```
 
 ![Screenshot](./screenshot.png)
+
+[Helpful Tips for Starting a Next.js Chrome Extension | CSS-Tricks](https://css-tricks.com/nextjs-chrome-extension-starter/)
