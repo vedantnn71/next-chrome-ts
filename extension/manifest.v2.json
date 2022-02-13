@@ -2,7 +2,7 @@
   "name": "Next Chrome",
   "description": "Next.js Chrome Extension starter",
   "version": "0.0.1",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "browser_action": {
     "default_title": "Next.js app",
     "default_popup": "index.html"
