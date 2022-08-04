@@ -1,6 +1,7 @@
-import styles from "../styles/Home.module.css";
+import type { NextPage } from 'next'
+import styles from '../styles/Home.module.css'
 
-const IndexPage = () => {
+const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <main className={styles.main}>
@@ -62,7 +63,7 @@ const IndexPage = () => {
         </a>
       </footer>
     </div>
-  );
-};
+  )
+}
 
-export default IndexPage;
+export default Home
